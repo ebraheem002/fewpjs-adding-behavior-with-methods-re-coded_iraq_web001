@@ -9,11 +9,11 @@ class Cat {
     console.log(`${this.name} says meow`)
   }
 }
- 
+
 class Dog {
   //...
 }
- 
+
 class Bird {
   //...
 }
